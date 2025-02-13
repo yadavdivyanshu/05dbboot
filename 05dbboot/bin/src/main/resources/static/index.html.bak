@@ -23,7 +23,6 @@
 						viewName:"anubhav.view.Main",
 						type:"XML"
 					});
-					//test comment from notepad
 					oView.byId("idApp").addPage(oView2);
 					oView.placeAt("content");
 				</script>
